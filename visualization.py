@@ -86,7 +86,7 @@ def process_and_plot(file_path, title_suffix=""):
     plt.show()
 
 # Load files (notice your current file path)
-file_list = [("./ambivalence_classic.csv", "(Classic Heroes)"),
+file_list = [("./ambivalence_classic.csv", "(Classical Heroes)"),
             ("./ambivalence_modern.csv", "(Modern Heroes)")]
 
 # Run
