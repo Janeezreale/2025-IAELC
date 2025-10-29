@@ -1,7 +1,7 @@
 # 2025-IAELC
 
 
-This git is made for presenting in **pre-conference of 2025 IAELC**(International Association for Ethical Literary Criticism). In this git, there are works of constructing **Digital Maps**.
+This repository is made for presenting in **pre-conference of 2025 IAELC**(International Association for Ethical Literary Criticism). In this git, there are works of constructing **Digital Maps**.
 
 
 ## Abstract
